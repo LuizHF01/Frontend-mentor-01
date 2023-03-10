@@ -1,0 +1,21 @@
+@media screen and (min-width: 768px) {
+    .container {
+      display: flex;
+      height: 100%;
+    }
+    
+    .result{
+      width: 50%;
+      height: 60vh;
+      border-radius: 30px;
+    }
+
+    .summary{
+      width: 50%;
+    }
+
+    button{
+      background-color: var(--Azul-cobalto);
+    }
+
+  }
